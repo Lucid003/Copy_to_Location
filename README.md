@@ -1,5 +1,5 @@
 # Copy to Location
-Script for copying files from a source location to a destination
+Script for copying files from a source location to a destination.
 
 Uses command line arguments to select source folder, destination folder, and file types. If any arguments are not provided, will use
 easygui to allow users to select missing arguments. 
